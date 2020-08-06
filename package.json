@@ -1,0 +1,23 @@
+{
+  "name": "jokesapp",
+  "version": "1.0.0",
+  "description": "Displays random Jokes using KNOCK=KNOCK-JOKES npm package manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Khattech"
+  },
+  "keywords": [
+    "NODEJS",
+    "NPM",
+    "KNOCK-KNOCK-JOKS"
+  ],
+  "author": "SHIVAM KHATTRI",
+  "license": "ISC",
+  "dependencies": {
+    "knock-knock-jokes": "^1.7.0"
+  }
+}
